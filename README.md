@@ -24,7 +24,7 @@ Netlify is an open source web hosting tool that makes deploying your projects fa
 
 ## Node? Express?
 
-Because of the relative simplicity of this project, we do not necessarily need node and express to create a development environment. 
+Because of the relative scope of this project, we do not need node and express to create a development environment. 
 
 ## Basic Requirements
 
