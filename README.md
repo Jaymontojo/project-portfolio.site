@@ -19,7 +19,7 @@ The short answer: *you may...*
 The reason why you may not want to do this: While you definitely can, you may be over-engineering the problem. Before you implement a frontend framework, determine whether your UI's state is heavily dependent on user driven interaction.
 
 ## What's Netlify?
-
+https://www.netlify.com/
 Netlify is an open source web hosting tool that makes deploying your projects fast and easy. Typically you will need to give a deployment website some build command however since we are just making an HTML CSS static site, you also will not necessarily need a build tool like web pack
 
 ## Node? Express?
@@ -52,6 +52,10 @@ Because of the relative simplicity of this project, we do not necessarily need n
     - [ ]  Must include a demonstration, include website's responsiveness
     - [ ]  Must include a google slide presentation. Use this as a space to talk about learnings, challenges & anything else unique about your project.
 - [ ]  Take time to polish up your slides so that there is consistency between your application and your slides.
+
+### Advanced Requirements
+- [ ]  Create a free Figma aacount here: https://www.figma.com/
+- [ ]  Create a figma mockup for your UI!
 
 ## Suggested Reading
 
